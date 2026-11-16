@@ -1,4 +1,4 @@
-# 2025WS-SWT-Calculator
+# 2026WS-SWT-Calculator
 
 An example project to illustrate coding guidelines, version control, and design patterns in a software engineering lecture in Ulm.
 
@@ -13,17 +13,17 @@ Run the White/Black Box Tests and fix the bugs they detect ([Moodle](https://moo
 
 Starting point:  
 **This branch**  
-`git checkout 2025-11-25v0`
+`git checkout 2026-11-17v0`
 
 Solution:  
-https://github.com/SimonBerlinger/ProfCalculator/tree/2025-11-25v1  
-`git checkout 2025-11-25v1`
+https://github.com/SimonBerlinger/ProfCalculator/tree/2026-11-17v1  
+`git checkout 2026-11-17v1`
 
 ### SE08c - JUnit Tests (Implement & Test new Operation)
-Implement a new binary operation and develop White/Black Box Tests for them ([Moodle](https://moodle.uni-ulm.de/mod/page/view.php?id=961482))
+Implement a new binary operation and develop White/Black Box Tests for them ([Moodle](https://moodle.uni-ulm.de/mod/page/view.php?id=1069067))
 
 Solution:  
-https://github.com/SimonBerlinger/ProfCalculator/tree/2025-11-25v2  
-`git checkout 2025-11-25v2`
+https://github.com/SimonBerlinger/ProfCalculator/tree/2026-11-17v2  
+`git checkout 2026-11-17v2`
 
 This solution implements division
